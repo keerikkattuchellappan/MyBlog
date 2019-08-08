@@ -8,3 +8,4 @@ setuptools==28.8.0
 Werkzeug==0.15.4
 uwsgi
 gunicorn
+flask-wtf
