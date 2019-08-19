@@ -9,3 +9,4 @@ Werkzeug==0.15.4
 uwsgi
 gunicorn
 flask-wtf
+flask-sqlalchemy
