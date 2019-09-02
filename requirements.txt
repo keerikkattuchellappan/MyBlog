@@ -10,3 +10,4 @@ uwsgi
 gunicorn
 flask-wtf
 flask-sqlalchemy
+flask-migrate
